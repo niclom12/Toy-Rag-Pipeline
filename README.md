@@ -1,6 +1,6 @@
 # Retrieval Augmented Generation Example
 
-This repository demonstrates a simple Retrieval Augmented Generation (RAG) pipeline. It enables uploading documents and querying them, supporting text, Markdown, and PDF files, all of which are converted into plain text. This project was developed as a learning tool to understand the various components and how they integrate.
+This repository demonstrates a simple Retrieval Augmented Generation (RAG) pipeline. It enables uploading documents and querying them, supporting text, Markdown, and PDF files, all of which are converted into plain text. This project was developed as a learning tool to understand the various components and how they integrate togehter. This example runs the chroma vector database locally and makes use of groqs api services for generation. There is no memroy retention between prompts.
 
 ## Setup
 
